@@ -11,8 +11,8 @@ import pMineria from "@/assets/proyecto-mineria.jpg";
 export const HERO_IMAGES = { heroArqueo, heroIng };
 
 export const COMPANY = {
-  name: "Víctor Hugo Tufiño Culquichicón & Arqueólogos",
-  short: "VHTC & Arqueólogos",
+  name: "Víctor Hugo Tufiño Culquichicón",
+  short: "VÍCTOR TUFINIO & Consultores",
   tagline: "Arqueología · Ingeniería · Infraestructura",
   phone: "+51 999 000 000",
   whatsapp: "51999000000",

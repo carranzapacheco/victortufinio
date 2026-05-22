@@ -14,7 +14,7 @@ export function Footer() {
               VH
             </div>
             <div className="font-display text-lg font-bold leading-tight">
-              VHTC <span className="text-clay">&</span> Arqueólogos
+              VÍCTOR TUFINIO <span className="text-clay">&</span> Consultores
             </div>
           </div>
           <p className="mt-5 max-w-xs text-pretty text-sm text-cream/70">

@@ -42,7 +42,7 @@ export function Navbar() {
             </div>
             <div className="leading-tight">
               <div className="font-display text-sm font-bold text-foreground sm:text-base">
-                VHTC <span className="text-primary">&</span> Arqueólogos
+                VÍCTOR TUFINIO <span className="text-primary">&</span> Consultores
               </div>
               <div className="text-[10px] uppercase tracking-[0.18em] text-muted-foreground">
                 {COMPANY.tagline}

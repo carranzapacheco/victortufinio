@@ -19,7 +19,7 @@ import { SERVICES, STATS, ABOUT_FEATURES, PROJECTS, WHY_US } from "@/lib/site-da
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "VHTC & Arqueólogos — Arqueología e Ingeniería de Alto Nivel" },
+      { title: "Arqueología e Ingeniería de alto nivel" },
       {
         name: "description",
         content:
