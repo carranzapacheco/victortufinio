@@ -41,8 +41,10 @@ export function Navbar() {
               <span className="absolute -inset-px rounded-xl ring-1 ring-inset ring-white/20" />
             </div>
             <div className="leading-tight">
-              <div className="font-display text-sm font-bold text-foreground sm:text-base">
-                VÍCTOR TUFINIO <span className="text-primary">&</span> Consultores
+              <div className="font-display text-sm font-bold tracking-wider text-foreground sm:text-base">
+                <span className="uppercase">VÍCTOR TUFINIO</span>{' '}
+                <span className="text-primary font-normal">&</span>{' '}
+                <span className="capitalize font-medium">Consultores</span>
               </div>
               <div className="text-[10px] uppercase tracking-[0.18em] text-muted-foreground">
                 {COMPANY.tagline}

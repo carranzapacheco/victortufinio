@@ -11,7 +11,7 @@ import pMineria from "@/assets/proyecto-mineria.jpg";
 export const HERO_IMAGES = { heroArqueo, heroIng };
 
 export const COMPANY = {
-  name: "Víctor Hugo Tufiño Culquichicón",
+  name: "Víctor Hugo Tufinio Culquichicón",
   short: "VÍCTOR TUFINIO & Consultores",
   tagline: "Arqueología · Ingeniería · Infraestructura",
   phone: "+51 999 000 000",
