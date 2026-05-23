@@ -13,7 +13,7 @@ export function Footer() {
             <div className="flex h-11 w-11 items-center justify-center rounded-xl gradient-warm font-display text-base font-bold text-cream shadow-glow">
               VH
             </div>
-            <div className="font-display text-lg font-bold leading-tight tracking-wide text-foreground">
+            <div className="font-display text-sm font-bold tracking-wider sm:text-base">
               <span className="uppercase">VÍCTOR TUFINIO</span>{' '}
               <span className="text-clay font-normal">&</span>{' '}
               <span className="capitalize font-medium">Consultores</span>
